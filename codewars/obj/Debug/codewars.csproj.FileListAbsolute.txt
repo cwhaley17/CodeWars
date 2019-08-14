@@ -1,0 +1,45 @@
+c:\users\aholub.dts-doc\documents\visual studio 2015\Projects\codewars\codewars\bin\Debug\codewars.exe.config
+c:\users\aholub.dts-doc\documents\visual studio 2015\Projects\codewars\codewars\bin\Debug\NUnit3.TestAdapter.dll
+c:\users\aholub.dts-doc\documents\visual studio 2015\Projects\codewars\codewars\bin\Debug\nunit.engine.dll
+c:\users\aholub.dts-doc\documents\visual studio 2015\Projects\codewars\codewars\bin\Debug\nunit.engine.api.dll
+c:\users\aholub.dts-doc\documents\visual studio 2015\Projects\codewars\codewars\bin\Debug\Mono.Cecil.dll
+c:\users\aholub.dts-doc\documents\visual studio 2015\Projects\codewars\codewars\bin\Debug\Mono.Cecil.Pdb.dll
+c:\users\aholub.dts-doc\documents\visual studio 2015\Projects\codewars\codewars\bin\Debug\Mono.Cecil.Mdb.dll
+c:\users\aholub.dts-doc\documents\visual studio 2015\Projects\codewars\codewars\bin\Debug\Mono.Cecil.Rocks.dll
+c:\users\aholub.dts-doc\documents\visual studio 2015\Projects\codewars\codewars\bin\Debug\codewars.exe
+c:\users\aholub.dts-doc\documents\visual studio 2015\Projects\codewars\codewars\bin\Debug\codewars.pdb
+c:\users\aholub.dts-doc\documents\visual studio 2015\Projects\codewars\codewars\bin\Debug\nunit.framework.dll
+c:\users\aholub.dts-doc\documents\visual studio 2015\Projects\codewars\codewars\bin\Debug\nunit.framework.xml
+c:\users\aholub.dts-doc\documents\visual studio 2015\Projects\codewars\codewars\obj\Debug\codewars.csprojResolveAssemblyReference.cache
+c:\users\aholub.dts-doc\documents\visual studio 2015\Projects\codewars\codewars\obj\Debug\codewars.exe
+c:\users\aholub.dts-doc\documents\visual studio 2015\Projects\codewars\codewars\obj\Debug\codewars.pdb
+C:\Users\aholub.DTS-DOC\Desktop\_repo\portfolio\codewars\codewars\bin\Debug\codewars.exe.config
+C:\Users\aholub.DTS-DOC\Desktop\_repo\portfolio\codewars\codewars\obj\Debug\codewars.exe
+C:\Users\aholub.DTS-DOC\Desktop\_repo\portfolio\codewars\codewars\obj\Debug\codewars.pdb
+C:\Users\aholub.DTS-DOC\Desktop\_repo\portfolio\codewars\codewars\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\aholub.DTS-DOC\Desktop\_repo\portfolio\codewars\codewars\bin\Debug\nunit.engine.dll
+C:\Users\aholub.DTS-DOC\Desktop\_repo\portfolio\codewars\codewars\bin\Debug\nunit.engine.api.dll
+C:\Users\aholub.DTS-DOC\Desktop\_repo\portfolio\codewars\codewars\bin\Debug\Mono.Cecil.dll
+C:\Users\aholub.DTS-DOC\Desktop\_repo\portfolio\codewars\codewars\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\aholub.DTS-DOC\Desktop\_repo\portfolio\codewars\codewars\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\aholub.DTS-DOC\Desktop\_repo\portfolio\codewars\codewars\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\aholub.DTS-DOC\Desktop\_repo\portfolio\codewars\codewars\bin\Debug\codewars.exe
+C:\Users\aholub.DTS-DOC\Desktop\_repo\portfolio\codewars\codewars\bin\Debug\codewars.pdb
+C:\Users\aholub.DTS-DOC\Desktop\_repo\portfolio\codewars\codewars\bin\Debug\nunit.framework.dll
+C:\Users\aholub.DTS-DOC\Desktop\_repo\portfolio\codewars\codewars\bin\Debug\nunit.framework.xml
+C:\Users\aholub.DTS-DOC\Desktop\_repo\portfolio\codewars\codewars\obj\Debug\codewars.csprojResolveAssemblyReference.cache
+C:\Users\aholub.DTS-DOC\Desktop\_repo\CodeWarsKata\codewars\codewars\bin\Debug\codewars.exe.config
+C:\Users\aholub.DTS-DOC\Desktop\_repo\CodeWarsKata\codewars\codewars\obj\Debug\codewars.exe
+C:\Users\aholub.DTS-DOC\Desktop\_repo\CodeWarsKata\codewars\codewars\obj\Debug\codewars.pdb
+C:\Users\aholub.DTS-DOC\Desktop\_repo\CodeWarsKata\codewars\codewars\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\aholub.DTS-DOC\Desktop\_repo\CodeWarsKata\codewars\codewars\bin\Debug\nunit.engine.dll
+C:\Users\aholub.DTS-DOC\Desktop\_repo\CodeWarsKata\codewars\codewars\bin\Debug\nunit.engine.api.dll
+C:\Users\aholub.DTS-DOC\Desktop\_repo\CodeWarsKata\codewars\codewars\bin\Debug\Mono.Cecil.dll
+C:\Users\aholub.DTS-DOC\Desktop\_repo\CodeWarsKata\codewars\codewars\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\aholub.DTS-DOC\Desktop\_repo\CodeWarsKata\codewars\codewars\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\aholub.DTS-DOC\Desktop\_repo\CodeWarsKata\codewars\codewars\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\aholub.DTS-DOC\Desktop\_repo\CodeWarsKata\codewars\codewars\bin\Debug\codewars.exe
+C:\Users\aholub.DTS-DOC\Desktop\_repo\CodeWarsKata\codewars\codewars\bin\Debug\codewars.pdb
+C:\Users\aholub.DTS-DOC\Desktop\_repo\CodeWarsKata\codewars\codewars\bin\Debug\nunit.framework.dll
+C:\Users\aholub.DTS-DOC\Desktop\_repo\CodeWarsKata\codewars\codewars\bin\Debug\nunit.framework.xml
+C:\Users\aholub.DTS-DOC\Desktop\_repo\CodeWarsKata\codewars\codewars\obj\Debug\codewars.csprojResolveAssemblyReference.cache
